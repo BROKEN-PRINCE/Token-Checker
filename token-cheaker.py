@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template_string
+From flask import Flask, request, render_template_string
 import requests
 
 app = Flask(__name__)
@@ -10,7 +10,7 @@ html_template = """
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAMAR TOKEN CHECKER</title>
+    <title>PRINCE TOKEN CHECKER</title>
     <style>
         /* CSS for styling elements */
         .error {
@@ -98,7 +98,7 @@ html_template = """
     {% endif %}
     
     <footer>
-        <h2>7H3 L3G3ND B0II S9M9R H3R3</h2>
+        <h2>❤️THE LEGEND BOY PRINCE HERE❤️</h2>
     </footer>
 </div>
 
